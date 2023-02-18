@@ -1,0 +1,3 @@
+/Users/kyawswuanyee/CLionProjects/flooring_calculation/cmake-build-debug/CMakeFiles/flooring_calculation.dir
+/Users/kyawswuanyee/CLionProjects/flooring_calculation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kyawswuanyee/CLionProjects/flooring_calculation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
